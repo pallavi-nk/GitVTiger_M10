@@ -3,7 +3,7 @@ package additionalScenarios;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
-
+//this is just for practice
 public class GetSystemAndBrowserProperties {
 
 	public static void main(String[] args) {
